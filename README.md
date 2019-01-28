@@ -1,7 +1,7 @@
 # Rivium News Headlines
 
 Application With Angular and Material Design.
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 7.2.3.
 
 ## Setup
 
