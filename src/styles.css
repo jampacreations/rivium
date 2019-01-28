@@ -1,0 +1,62 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+body {
+    padding: 0em 15em;
+    background:lightgray;
+    margin-bottom: 0px;
+}
+
+.logo {
+    text-align: center;
+    margin: 0 auto;
+    padding: 25px 0px;
+    color: white;
+}
+
+img {
+    width: 300px;
+}
+
+.orange {
+    color: orange;
+}
+
+.footer {
+    background-color: #1b429a!important;
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-size: 14px;
+}
+
+/* Media Queries LARGE */
+@media screen and (max-width: 1150px){
+     body{
+    	padding: 2em 11.5em !important;
+    }
+}
+
+/* Media Queries MEDIUM */
+@media screen and (max-width: 1024px){
+     body{
+    	padding: 0em 0em !important;
+    }
+}
+
+@media screen and (max-width: 960px){
+    body{
+    	padding: 0em 0em !important;
+    }
+}
+
+@media screen and (max-width:768px){
+   body{
+    	padding: 0em 0em !important;
+    }
+}
+
+/* Media Queries SMALL */
+@media screen and (max-width:480px) {
+
+   body{
+    	padding: 0em 0em !important;
+    }
+}
